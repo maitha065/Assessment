@@ -1,6 +1,6 @@
 # Data Exploration 
 
-The aim of this project was to explore datasets that were released by Twiiter on state linked campaigns and write python scripts which include data summarization, time series construction, and topic modeling. The scripts can be found through the following link https://transparency.twitter.com/en/reports/information-operations.html.
+The aim of this project was to explore datasets that were released by Twiiter on state linked campaigns and write python scripts which include data summarization, time series construction, and topic modeling. The datasets can be found through the following link https://transparency.twitter.com/en/reports/information-operations.html.
 
 ## Description
 
